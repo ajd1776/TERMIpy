@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ajd1776/Netflix-History-Dashboard">
-    <img src="./static/img/logo.png" alt="Logo" width="300">
+    <img src="TERMIpy-icon.png" alt="Logo" width="300">
   </a>
 
 <h3 align="center">Netflix History Dashboard</h3>
