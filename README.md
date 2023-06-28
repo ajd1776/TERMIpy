@@ -72,7 +72,6 @@
 <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python"></a>
 
-Hosted On [PythonAnywhere](https://www.pythonanywhere.com) with a free plan.
 
 ### Features
 - [x] 
