@@ -3,20 +3,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ajd1776/Netflix-History-Dashboard">
+  <a href="https://github.com/ajd1776/TERMIpy">
     <img src="TERMIpy-icon.png" alt="Logo" width="300">
   </a>
 
-<h3 align="center">Netflix History Dashboard</h3>
+<h1 align="center">TERMIpy</h1>
 
   <p align="center">
-    View your Netflix history on this interactive dashboard.
+    Make your py terminal look great. 
     <br />
-    <a href="https://github.com/ajd1776/Netflix-History-Dashboard"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ajd1776/TERMIpy"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ajd.pythonanywhere.com/">Try It Yourself</a>
-    ·
     <a href="#Demos">View Demo</a>
     ·
     <a href="https://github.com/ajd1776/Netflix-History-Dashboard/issues">Report Bug</a>
@@ -68,7 +66,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![image](https://github.com/ajd1776/Netflix-History-Dashboard/assets/48261946/9a1574d3-de84-4caf-923a-ee09e52df5a0)
+
 
 ### Built With
 <a href="https://www.python.org/">
@@ -89,20 +87,7 @@
 Hosted On [PythonAnywhere](https://www.pythonanywhere.com) with a free plan.
 
 ### Features
-- [x] Recently watched shows.
-- [x] Recently watched movies.
-- [x] Most watched show.
-- [x] Most watched movie.
-- [x] Most active day of the month (numeric) & number of things watched on that day.
-- [x] Most active day of the week (name) & number of things watched on that day.
-- [x] Most active month (name) & number of things watched in that month.
-- [x] Most active year & number of things watched in that year.
-- [x] Activity for each month for a selected year range.
-- [x] Top 1 to 25 shows or movies for a selected year range.
-- [x] Activity for each day of the month for a selected year & month range.
-  -  For example: Activity for each day of the month (numeric) from 2020 to 2021 for January to April.
-- [x] Ratio of shows to movies given in a percentage.
-- [x] Entire watch history available for viewing on the dashboard or downloading as a CSV after processing. 
+- [x] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,24 +97,13 @@ Hosted On [PythonAnywhere](https://www.pythonanywhere.com) with a free plan.
 
 ### Demos
 
-https://github.com/ajd1776/Netflix-History-Dashboard/assets/48261946/a1d6ad45-dc70-4984-8b72-68b3cec62867
-
-
-https://github.com/ajd1776/Netflix-History-Dashboard/assets/48261946/ba33e9bd-a50b-456a-81ef-b551c64eb77e
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add ability for users to upload thier own history file
-- [ ] Social Media share option
-- [ ] Update UI for dashboard
-- [ ] Create responsive layout for all devices
-- [ ] Account creation
-  - [ ] Compare with other accounts  
-
+- [x] Add ability for 
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
