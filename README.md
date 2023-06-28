@@ -71,18 +71,6 @@
 ### Built With
 <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python"></a>
-<a href="https://pandas.pydata.org">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas"></a>
-<a href="https://plotly.com/">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly"></a>
-<a href="https://flask.palletsprojects.com/en/2.3.x/">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3"></a>
-<a href="https://getbootstrap.com/">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"></a>
 
 Hosted On [PythonAnywhere](https://www.pythonanywhere.com) with a free plan.
 
