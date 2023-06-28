@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ajd1776/TERMIpy">
-    <img src="TERMIpy-icon.png" alt="Logo" width="300">
+    <img src="TERMIpy-ICON.svg" alt="Logo" width="300">
   </a>
 
 <h1 align="center">TERMIpy</h1>
