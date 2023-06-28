@@ -17,31 +17,31 @@
     <br />
     <a href="#Demos">View Demo</a>
     ·
-    <a href="https://github.com/ajd1776/Netflix-History-Dashboard/issues">Report Bug</a>
+    <a href="https://github.com/ajd1776/TERMIpy/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ajd1776/Netflix-History-Dashboard/issues">Request Feature</a>
+    <a href="https://github.com/ajd1776/TERMIpy/issues">Request Feature</a>
   </p>
 </div>
 
 
 <!-- PROJECT SHIELDS -->
 <p align="center"> 
-   <a href="https://github.com/ajd1776/Netflix-History-Dashboard/graphs/contributors">
-       <img alt="Contributors" src="https://img.shields.io/github/contributors/ajd1776/Netflix-History-Dashboard.svg?style=for-the-badge"></a>
-   <a href="https://github.com/ajd1776/Netflix-History-Dashboard/network/members">
-       <img alt="Forks" src="https://img.shields.io/github/forks/ajd1776/Netflix-History-Dashboard.svg?style=for-the-badge"></a>
-   <a href="https://github.com/ajd1776/Netflix-History-Dashboard/stargazers">
-       <img alt="Stars" src="https://img.shields.io/github/stars/ajd1776/Netflix-History-Dashboard.svg?style=for-the-badge"></a>
-   <a href="https://github.com/ajd1776/Netflix-History-Dashboard/issues">
-       <img alt="Issues" src="https://img.shields.io/github/issues/ajd1776/Netflix-History-Dashboard.svg?style=for-the-badge"></a>
+   <a href="https://github.com/ajd1776/TERMIpy/graphs/contributors">
+       <img alt="Contributors" src="https://img.shields.io/github/contributors/ajd1776/TERMIpy.svg?style=for-the-badge"></a>
+   <a href="https://github.com/ajd1776/TERMIpy/network/members">
+       <img alt="Forks" src="https://img.shields.io/github/forks/ajd1776/TERMIpy.svg?style=for-the-badge"></a>
+   <a href="https://github.com/ajd1776/TERMIpy/stargazers">
+       <img alt="Stars" src="https://img.shields.io/github/stars/ajd1776/TERMIpy.svg?style=for-the-badge"></a>
+   <a href="https://github.com/ajd1776/TERMIpy/issues">
+       <img alt="Issues" src="https://img.shields.io/github/issues/ajd1776/TERMIpy.svg?style=for-the-badge"></a>
    <a href="./LICENSE.txt">
-       <img alt="License" src="https://img.shields.io/github/license/ajd1776/Netflix-History-Dashboard.svg?style=for-the-badge"></a>
+       <img alt="License" src="https://img.shields.io/github/license/ajd1776/TERMIpy.svg?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img alt="Lines" src="https://img.shields.io/tokei/lines/github/ajd1776/Netflix-History-Dashboard?style=flat-square"></a>
-  <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/ajd1776/Netflix-History-Dashboard?style=flat-square"></a>
-  <img alt="Files" src="https://img.shields.io/github/directory-file-count/ajd1776/Netflix-History-Dashboard?style=flat-square"></a>
+  <img alt="Lines" src="https://img.shields.io/tokei/lines/github/ajd1776/TERMIpy?style=flat-square"></a>
+  <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/ajd1776/TERMIpy?style=flat-square"></a>
+  <img alt="Files" src="https://img.shields.io/github/directory-file-count/ajd1776/TERMIpy?style=flat-square"></a>
 </p>
 
 
@@ -122,4 +122,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: (https://github.com/ajd1776/Netflix-History-Dashboard/assets/48261946/9a1574d3-de84-4caf-923a-ee09e52df5a0)
+[product-screenshot]: (https://github.com/ajd1776/TERMIpy/assets/48261946/9a1574d3-de84-4caf-923a-ee09e52df5a0)
